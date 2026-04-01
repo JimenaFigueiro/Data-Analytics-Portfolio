@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-¡Bienvenida/o! Aquí encontrarás una colección de **13 proyectos interactivos** de Power BI, diseñados para transformar datos complejos en decisiones estratégicas.
+¡Bienvenida/o! Aquí encontrarás una colección de **14 proyectos interactivos** de Power BI, diseñados para transformar datos complejos en decisiones estratégicas.
 
 
 | Categoría | Proyecto | Descripción |
@@ -11,11 +11,11 @@
 | **Corporate Finance** | Eficiencia Nomina | Análisis de productividad y peso del costo laboral sobre ingreso |
 | **Corporate Finance** | Finanzas Retail | Estructura de resultados y rentabilidad aplicada al comercio |
 | **Corporate Finance** | Gestión Proyectos | Control de recursos, tiempos y desvíos presupuestarios |
-| **Marketing & Sales** | ⭐Sales & Logistics Olist | Análisis de performance en marketplaces y plazos de entrega |
+| **Marketing & Sales** | ⭐Sales & Logistics | Análisis de performance en marketplaces y plazos de entrega |
 | **Marketing & Sales** | Simulador Retail | Modelado de escenarios "What-if" para proyecciones de ventas |
 | **Marketing & Sales** | Marketing SaaS | Métricas de conversión, adquisición y retención de clientes |
 | **Operations** | ⭐Inventario | Rotación de stock, valoración de existencias y quiebres de inventario |
-| **Operations** | RRHH IBM | Analítica de personas, rotación de personal (attrition) y clima |
+| **Operations** | RRHH | Analítica de personas, rotación de personal (attrition) y clima |
 | **Operations** | Salud | Gestión de indicadores operativos y atención en el sector sanitario |
 | **Hospitality** | ⭐Simulador Hotel | Modelado de escenarios "What-if" para proyectar margen de A&B |
 | **BI & UX** | ⭐AppLike Navigation | Ecosistema financiero con navegación avanzada, métricas YoY y conexión a SQL Server |
