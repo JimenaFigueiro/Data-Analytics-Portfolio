@@ -7,7 +7,7 @@
 | Categoría | Proyecto | Descripción |
 | :--- | :--- | :--- |
 | **BI & UX** | [⭐ AppLike Navigation](./01-Proyectos-Estrella/AppLike%20Navigation) | Dashboard interactivo con navegación avanzada y diseño orientado a UX. Conexión a 🛢️ SQL. |
-| **Corporate** | [⭐ Auditoría y Fraude](./01-Proyectos-Estrella/Auditoria%20Fraude) | Detección de anomalías y control de integridad transaccional. |
+| **Corporate** | [⭐ Auditoría y Fraude](./01-Proyectos-Estrella/Auditoria%20y%20Fraude) | Detección de anomalías y control de integridad transaccional. |
 | **Hospitality** | [⭐ Finanzas Hotel](./01-Proyectos-Estrella/Finanzas%20Hotel) | Control profundo de P&L, **Breakeven dinámico** y KPIs operativos. |
 | **Hospitality** | [⭐ P&L Regional USALI](./01-Proyectos-Estrella/P&L%20Regional%20USALI) | Arquitectura 🛢️ SQL + 🐍 Python para consolidación regional bajo estándares USALI. |
 | **Logistics** | [⭐ Sales & Logistics](./01-Proyectos-Estrella/Sales%20&%20Logistics) | Análisis de performance en grandes volúmenes de datos. |
