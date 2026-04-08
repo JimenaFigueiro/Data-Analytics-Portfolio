@@ -21,4 +21,4 @@
   *(Incluye: Revenue Management, Eficiencia Nómina, Salud, RRHH, Retail y más).*
 
 ---
-📩 **Contacto:** www.linkedin.com/in/jimena-laura-figueiró-84629725 | 📈 **Herramientas:** 📊 Power BI, 🐍 Python, 🛢️ SQL, Excel Avanzado.
+📩 **Contacto:** www.linkedin.com/in/jimena-laura-figueiró-84629725 | 🛠️ **Herramientas:** 📊 Power BI, 🐍 Python, 🛢️ SQL, Excel Avanzado.
