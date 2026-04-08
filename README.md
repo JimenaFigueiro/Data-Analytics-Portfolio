@@ -1,24 +1,24 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics Portfolio - Jimena Laura Figueiró
 
-¡Bienvenida/o! Aquí encontrarás una colección de **14 proyectos interactivos** de Power BI, diseñados para transformar datos complejos en decisiones estratégicas.
+¡Bienvenida/o! Aquí encontrarás una selección de soluciones diseñadas para transformar datos complejos en decisiones de negocio, con foco en **Arquitectura de Datos** y **Finanzas Senior**.
 
+## 🚀 Proyectos Destacados (Top Tier)
 
 | Categoría | Proyecto | Descripción |
 | :--- | :--- | :--- |
-| **Hospitality** | ⭐Finanzas Hotel | Control de P&L, GOP departamental y Breakeven operativo |
-| **Hospitality** | Revenue Management | Estrategia de precios, análisis de ADR, RevPAR y ventanas de reserva |
-| **Corporate Finance** | ⭐Auditoría y Fraude | Detección de red flags y control de integridad transaccional |
-| **Corporate Finance** | Eficiencia Nomina | Análisis de productividad y peso del costo laboral sobre ingreso |
-| **Corporate Finance** | Finanzas Retail | Estructura de resultados y rentabilidad aplicada al comercio |
-| **Corporate Finance** | Gestión Proyectos | Control de recursos, tiempos y desvíos presupuestarios |
-| **Marketing & Sales** | ⭐Sales & Logistics | Análisis de performance en marketplaces y plazos de entrega |
-| **Marketing & Sales** | Simulador Retail | Modelado de escenarios "What-if" para proyecciones de ventas |
-| **Marketing & Sales** | Marketing SaaS | Métricas de conversión, adquisición y retención de clientes |
-| **Operations** | ⭐Inventario | Rotación de stock, valoración de existencias y quiebres de inventario |
-| **Operations** | RRHH | Analítica de personas, rotación de personal (attrition) y clima |
-| **Operations** | Salud | Gestión de indicadores operativos y atención en el sector sanitario |
-| **Hospitality** | ⭐Simulador Hotel | Modelado de escenarios "What-if" para proyectar margen de A&B |
-| **BI & UX** | ⭐AppLike Navigation | Ecosistema financiero con navegación avanzada, métricas YoY y conexión a SQL Server |
+| **BI & UX** | [⭐ AppLike Navigation](./01-Proyectos-Estrella/AppLike%20Navigation) | Dashboard interactivo con navegación avanzada y diseño orientado a UX. |
+| **Corporate** | [⭐ Auditoría y Fraude](./01-Proyectos-Estrella/Auditoria%20Fraude) | Detección de anomalías y control de integridad transaccional. |
+| **Hospitality** | [⭐ Finanzas Hotel](./01-Proyectos-Estrella/Finanzas%20Hotel) | Control profundo de P&L, **Breakeven dinámico** y KPIs operativos. |
+| **Hospitality** | [⭐ P&L Regional USALI](./01-Proyectos-Estrella/P&L%20Regional%20USALI) | Arquitectura SQL + Python para consolidación regional bajo estándares USALI. |
+| **Logistics** | [⭐ Sales & Logistics](./01-Proyectos-Estrella/Sales%20&%20Logistics) | Análisis de performance en grandes volúmenes de datos. |
+| **Hospitality** | [⭐ Simulador Hotel](./01-Proyectos-Estrella/Simulador%20Hotel) | Modelado de escenarios "What-if" para proyectar margen de A&B. |
 
 ---
-📩 **Contacto:** www.linkedin.com/in/jimena-laura-figueiró-84629725 | 📈 **Herramientas:** Power BI, SQL, Excel Avanzado.
+## 📂 Otros Proyectos
+*Haga clic debajo para explorar el resto de los reportes por industria:*
+
+* [**Explorar todos los proyectos adicionales**](./02-Otros-Proyectos)
+  *(Incluye: Revenue Management, Eficiencia Nómina, Salud, RRHH, Retail y más).*
+
+---
+📩 **Contacto:** www.linkedin.com/in/jimena-laura-figueiró-84629725 | 📈 **Herramientas:** Power BI, Python, SQL, Excel Avanzado.
