@@ -19,8 +19,11 @@ Arquitectura de Datos: Procesamiento de datos crudos mediante "Python" para norm
 Estandarización USALI: Implementación de una matriz jerárquica que respeta el orden contable de la industria.
 
 Visualización Avanzada:
+
 \* Gráfico de Cascada ("Waterfall") para visualizar el flujo desde el Revenue hasta el Resultado Neto.
+
 \* Análisis de Margen por Departamento para evaluar la eficiencia operativa de cada unidad de negocio.
+
 \* "Net Result by Country" para identificar la contribución específica de cada mercado al consolidado regional.
 
 UX/UI Dinámica: Integración de navegación entre hojas (Revenue vs. Financial), títulos dinámicos y banderas que cambian según el filtro de país seleccionado.
@@ -38,7 +41,9 @@ Origen de Datos: CSV procesados con 🐍 Python y alojados en 🛢️ SQL.
 Cálculos DAX Clave:
 
 \* Net Result consolidado con lógica de signos invertidos para gastos.
+
 \* % GOP dinámico por región y departamento.
+
 \* Importe USALI mediante relaciones compuestas para mantener la jerarquía contable.
 
 Visuales Clave: Waterfall Bridge, Matriz jerárquica USALI y Slicers sincronizados.
