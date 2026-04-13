@@ -19,6 +19,7 @@ Arquitectura de Datos: Extracción y procesamiento de datos mediante Python para
 Inteligencia de Tiempo: Implementación de lógica DAX avanzada para el cálculo de stock al cierre y variaciones mensuales, evitando duplicaciones por año fiscal.
 
 Visualización Estratégica:
+
 \* Matriz ABC: Clasificación de productos según su contribución al margen total.
 
 \* Análisis de Cobertura: Cálculo dinámico de días de autonomía para identificar alertas de quiebre.
