@@ -1,0 +1,11 @@
+supplier_id,nombre_prov,reputacion,lead_time_teorico
+501,Proveedor_0,A,10
+502,Proveedor_1,C,9
+503,Proveedor_2,B,6
+504,Proveedor_3,B,12
+505,Proveedor_4,A,10
+506,Proveedor_5,A,6
+507,Proveedor_6,A,9
+508,Proveedor_7,C,5
+509,Proveedor_8,B,14
+510,Proveedor_9,B,10
