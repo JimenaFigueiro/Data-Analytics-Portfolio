@@ -44,6 +44,37 @@ Cálculos DAX Clave:
 
 UX/UI: Navegación por iconos, sincronización total de slicers y diseño orientado a la detección de anomalías.
 
+📂 Snippets de Auditoría Técnica
+
+<details>
+<summary><b>1. DAX: Ticket Promedio Global (Benchmarking Dinámico)</b></summary>
+
+Este cálculo permite comparar el rendimiento por país contra un promedio histórico estable.
+
+```dax
+Ticket Promedio Global =
+CALCULATE(
+[Ticket Promedio],
+ALL(Ecommerce_Data_Final_Para_PBI[Country]),
+ALL(Ecommerce_Data_Final_Para_PBI[CustomerID])
+)
+```
+</details>
+
+<details>
+<summary><b>2. Python: Tratamiento de Datos</b></summary>
+
+Fragmento del proceso ETL para normalizar tipos de datos.
+
+```python
+import pandas as pd
+
+df['UnitPrice'] = pd.to_numeric(df['UnitPrice'], errors='coerce').fillna(0)
+df['Quantity'] = pd.to_numeric(df['Quantity'], errors='coerce').fillna(0)
+df['Revenue_USD'] = df['Quantity'] * df['UnitPrice']
+```
+</details>
+
 * Archivos disponibles en la parte superior de este repositorio.
 
 Fuente de datos: E-Commerce Data Dataset by The UCI Machine Learning - https://www.kaggle.com/datasets/carrie1/ecommerce-data
