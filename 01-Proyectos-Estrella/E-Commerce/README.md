@@ -64,14 +64,13 @@ ALL(Ecommerce_Data_Final_Para_PBI[CustomerID])
 <details>
 <summary><b>2. Python: Tratamiento de Datos</b></summary>
 
-Fragmento del proceso ETL para normalizar tipos de datos.
+Fragmento del proceso ETL para aplicar categorías y unificar moneda.
 
 ```python
 import pandas as pd
 
-df['UnitPrice'] = pd.to_numeric(df['UnitPrice'], errors='coerce').fillna(0)
-df['Quantity'] = pd.to_numeric(df['Quantity'], errors='coerce').fillna(0)
-df['Revenue_USD'] = df['Quantity'] * df['UnitPrice']
+df['Categoria'] = df['Description'].apply(categorizar)
+df['Revenue_USD'] = df['Total_Bruto'] * df['Tasa_Conversion']
 ```
 </details>
 
