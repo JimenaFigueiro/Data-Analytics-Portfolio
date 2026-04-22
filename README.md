@@ -23,4 +23,9 @@
   *(Incluye: Revenue Management, Eficiencia Nómina, Salud, RRHH, Retail y más).*
 
 ---
+## 📖 Documentación Detallada
+
+Para conocer más sobre mi metodología, stack técnico y glosario de negocios, visita la **[Wiki del Portfolio](https://github.com/JimenaFigueiro/Data-Analytics-Portfolio/wiki)**.
+
+---
 📩 **Contacto:** www.linkedin.com/in/jimena-laura-figueiró-84629725 | 🛠️ **Herramientas:** 📊 Power BI, 🐍 Python, 🛢️ SQL, Excel Avanzado.
